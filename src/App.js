@@ -1,6 +1,6 @@
 
 import './App.css';
-import StateTutorial from './components/useLayoutEffect/LayoutEffect'
+import StateTutorial from './components/useImperativeHandle/ImperativeHandle'
 
 function App() {
   return (
