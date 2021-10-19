@@ -1,11 +1,10 @@
 
 import './App.css';
-import StateTutorial from './components/useEffect/EffectTutorial'
+import StateTutorial from './components/useLayoutEffect/LayoutEffect'
 
 function App() {
   return (
     <div className='App'>
-      <h1>Hello World</h1>
       <StateTutorial/>
     </div>
   );
