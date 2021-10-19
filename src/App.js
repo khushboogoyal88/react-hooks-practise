@@ -1,6 +1,6 @@
 
 import './App.css';
-import StateTutorial from './components/useState/StateTutorial'
+import StateTutorial from './components/useReducer/ReducerTutorial'
 
 function App() {
   return (
